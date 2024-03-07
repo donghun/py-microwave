@@ -2,6 +2,7 @@
 # Vaious examples of the usage of the smith modules
 #
 #
+
 import matplotlib.pyplot as plt
 from numpy import *
 from smith import *

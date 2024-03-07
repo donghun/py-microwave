@@ -2,6 +2,8 @@
 #
 # S.F. Peik 2021
 #
+import sys
+sys.path.append('../modules')
 
 import mwave as mw
 
